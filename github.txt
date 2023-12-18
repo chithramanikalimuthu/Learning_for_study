@@ -12,3 +12,5 @@ whatsapp
 5. hide the last seen
 
 6. adding the audio and video call features
+
+7. Adding Profile picture.
