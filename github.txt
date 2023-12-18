@@ -9,3 +9,4 @@ whatsapp
 
 4. chat screen code
 
+5. hide the last seen
